@@ -58,17 +58,17 @@ It improves collaboration by making it easier for others to understand and contr
 
 Public Repository:
 
-✅ Free and accessible to everyone.
+# Free and accessible to everyone.
 
-✅ Encourages open-source collaboration.
+# Encourages open-source collaboration.
 
 ❌ Anyone can see and copy the code.
 
 Private Repository:
 
-✅ Only selected users have access.
+# Only selected users have access.
 
-✅ Ideal for confidential projects.
+# Ideal for confidential projects.
 
 ❌ Limited free usage (depending on GitHub’s pricing model).
 
@@ -151,7 +151,8 @@ These tools improve teamwork by keeping everything organized and transparent.
 
 10. Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
-✅ Common mistakes:
+
+ # Common mistakes:
 
 Forgetting to commit changes regularly.
 
@@ -159,7 +160,7 @@ Not using branches for new features.
 
 Accidental deletion of important files.
 
-✅ Best practices:
+# Best practices:
 
 Commit often with clear messages.
 
